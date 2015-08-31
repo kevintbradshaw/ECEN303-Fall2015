@@ -11,7 +11,7 @@
 * Alexander Barrett, abarrett93
 * Kaitlin Basham, klb3736, [klb3736](https://github.com/klb3736/)
 * Philip Bowie, bowiepj
-* Kevin Bradshaw, kevintbradshaw
+* Kevin Bradshaw, kevintbradshaw, [kevintbradshaw](https://github.com/kevintbradshaw)
 * Jui Yen Chua, olochua
 * Phillip Cryer, cryerp
 * Stephanie Demco, steph1995
