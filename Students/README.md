@@ -59,7 +59,7 @@
 * Craig Wolf, dallascowboys10, [CraigWolf10](https://github.com/CraigWolf10)
 * Jesse Yancy, jpy234
 * Seungwon Yoon, ysw0927, [buttonsense](https://github.com/buttonsense/)
-
+* Kevin Bradshaw, kevintbradshaw, [kevintbradshaw](https://github.com/kevintbradshaw)
 
 ## Teaching Assistant
 
